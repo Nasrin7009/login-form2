@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+
+background-color: #3d9f9fc4;
+}
+.login{
+
+
+
+
+
+margin: 30px auto;
+
+width: 76%;
+
+text-align: center;
+
+background-color: bisque;
+}
+
+.login-form{
+    width: 100%;
+    float: left;
+    background-color: white;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+
+.login-form-one{
+    width: 50%;
+    float: left;
+    background-image: url(./images.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.img{
+
+margin-left: -242px;
+
+width: 137px;
+
+height: 75px;
+
+margin-top: 22px;
+}
+.wtn-part-one{
+
+margin: 83px auto;
+
+color: white;
+}
+.wtn-part-one h3{
+
+}
+.wtn-part-one h1{
+
+width: 340px;
+
+margin: 24px auto;
+
+font-size: 40px;
+}
+.dash{
+
+width: 44px;
+
+border: 3px solid;
+
+display: block;
+
+margin: auto;
+
+border-radius: 10px;
+
+margin-bottom: 23px;
+}
+.wtn-part-one p{
+
+font-size: 12px;
+
+width: 294px;
+
+margin: auto;
+}
+.login-form-two{
+    width: 50%;
+    float: left;
+    padding: 41px 0px;
+    background-color: #c1d7dbc4;
+}
+.login-form-two h2{
+
+font-size: 31px;
+
+margin-bottom: 21px;
+}
+.login-form-two p{
+
+width: 337px;
+
+font-size: 14px;
+
+margin: auto;
+}
+.email{width: 70%;border-left: 5px solid rebeccapurple;margin: auto;margin-top: 32px;padding: 5px 0px;background-color: white;}
+.email input{
+
+font-size: 17px;
+
+width: 96%;
+
+padding: 3px;
+}
+.password{
+
+width: 70%;
+
+border-left: 5px solid rebeccapurple;
+
+margin: auto;
+
+margin-top: 20px;
+
+padding: 5px 0px;
+
+background-color: white;
+}
+.password input{
+
+width: 93%;
+
+font-size: 17px;
+
+padding: 3px;
+}
+.check-box{
+
+width: 70%;
+
+margin: 35px auto;
+
+padding: 13px 0px;
+}
+.check-box input{margin-left: -55px;}
+.check-box label{
+
+}
+.check-box a{
+
+float: right;
+
+text-decoration: underline;
+
+color: navy;
+}
+input[type="submit"]{
+
+width: 60%;
+
+background-color: mediumaquamarine;
+
+padding: 9px 0px;
+
+font-size: 19px;
+
+color: white;
+
+border-radius: 39px;
+
+box-shadow: 2px 2px 2px 2px darkgrey;
+}
+.footer{
+    width: 100%;
+    float: left;
+
+}
+.footer-one{
+    width: 50%;
+    float: left;
+
+}
+.footer-one p{
+
+margin-right: -371px;
+
+margin-top: 22px;
+}
+.footer-two{
+    width: 50%;
+    float: left;
+}
+.footer-two img{
+
+width: 97px;
+
+height: 61px;
+
+margin-left: -413px;
+}
